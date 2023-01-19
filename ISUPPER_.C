@@ -1,3 +1,4 @@
+//check character is in upper case or not
 #include<stdio.h>
 #include<conio.h>
 void main()
