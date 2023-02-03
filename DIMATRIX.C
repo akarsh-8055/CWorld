@@ -1,4 +1,4 @@
-//add element of 1st digonal element and subtract digonal of second matrix with absolue value
+//add element of 1st digonal element and subtract second digonal element  with absolue value
 #include<stdio.h>
 #include<conio.h>
 void main()
